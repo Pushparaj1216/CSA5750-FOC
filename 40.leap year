@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "Enter a year"
 read leap
 echo "taking a year as $leap"
